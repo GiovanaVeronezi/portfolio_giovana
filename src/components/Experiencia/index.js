@@ -1,6 +1,6 @@
 import "./estilo.css"
 
-function Experience(){
+function Experiencia(){
     return(
         <section>
          <h3 className="h2-experiencs">Experiência</h3>
@@ -11,4 +11,4 @@ function Experience(){
     )
 }
 
-export default Experience
+export default Experiencia

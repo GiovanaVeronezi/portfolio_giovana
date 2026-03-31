@@ -3,7 +3,7 @@ import projeto1 from "../../Imagens/projeto-1.png";
 import projeto2 from "../../Imagens/projeto-2.png";
 import projeto3 from "../../Imagens/projeto-3.png";
 
-function Projects() {
+function Projetos() {
   return (
     <section className="projects">
       <h2>Projetos</h2>
@@ -54,4 +54,4 @@ function Projects() {
   );
 }
 
-export default Projects;
+export default Projetos;

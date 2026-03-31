@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
 
-      {/* FOTO */}
+      
       <Perfil />
 
       <div className="header-content">

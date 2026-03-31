@@ -1,20 +1,20 @@
 import Header from "./components/Header";
-import About from "./components/About";
-import Experience from "./components/Experience";
-import Projects from "./components/Projects";
+import Sobre from "./components/Sobre";
+import Experiencia from "./components/Experiencia";
+import Projetos from "./components/Projetos";
 import Skills from "./components/Skills";
-import Contact from "./components/Contact";
-import "./style.css";
+import Contato from "./components/Contato";
+import "./App.css";
 
 function App() {
   return (
     <div>
       <Header />
-      <About />
-      <Experience/>
-      <Projects/> 
+      <Sobre/>
+      <Experiencia/>
+      <Projetos/> 
       <Skills />
-      <Contact />
+      <Contato/>
     </div>
   );
 }
