@@ -1,0 +1,49 @@
+.section-contatos {
+padding: '2rem';
+background-color: '#1a0b2e';
+text-align: center;
+margin-bottom: 20px;
+color: #ffffff;
+}
+
+.contact-container {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  margin-top: 10px;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  background: #1a0b2e;
+  color: white;
+}
+
+button {
+  margin-top: 15px;
+  padding: 12px;
+  width: 100%;
+  border: none;
+  border-radius: 30px;
+  background: #6d28d9;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #7c3aed;
+}
+
+a{
+ padding: '2rem';
+background-color: '#1a0b2e';
+text-align: center;
+margin-bottom: 20px;
+color: #ffffff;
+}
