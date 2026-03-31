@@ -1,13 +1,27 @@
 .perfil-container {
-  position: absolute;  
-  top: 20px;           
-  right: 80px;         
+  position: absolute;
+  top: 30px;
+  right: 55px;
 }
 
 .foto-perfil {
-  width: 200px;         
+  width: 200px;
   height: 200px;
-  border-radius: 50%;  
+  border-radius: 50%;
   object-fit: cover;
-  border: 3px solid #4b0082; 
+  border: 3px solid #7c3aed;
+}
+
+/* 📱 MOBILE */
+@media (max-width: 768px) {
+  .perfil-container {
+    position: static;
+    display: flex;
+    justify-content: center;
+  }
+
+  .foto-perfil {
+    width: 140px;
+    height: 140px;
+  }
 }

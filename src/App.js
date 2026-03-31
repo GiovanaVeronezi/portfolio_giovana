@@ -1,5 +1,4 @@
 import Header from "./components/Header";
-import Perfil from "./components/Perfil";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
@@ -11,7 +10,6 @@ function App() {
   return (
     <div>
       <Header />
-      <Perfil/>
       <About />
       <Experience/>
       <Projects/> 
