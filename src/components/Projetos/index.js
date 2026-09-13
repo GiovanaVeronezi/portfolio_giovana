@@ -15,7 +15,7 @@ function Projetos() {
           style={{ backgroundImage: `url(${projeto1})` }}
         >
           <a
-            href="https://carrinho-de-compras-psi-red.vercel.app/"
+            href="https://representacao-comercial-diogo-six.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
