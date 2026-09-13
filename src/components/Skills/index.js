@@ -8,8 +8,8 @@ function Skills() {
       <div className="skills-grid">
         <div className="skill-card">React</div>
         <div className="skill-card">JavaScript</div>
-        <div className="skill-card">Html</div>
-        <div className="skill-card">Css</div>
+        <div className="skill-card">Node</div>
+        <div className="skill-card">Express</div>
       </div>
     </section>
   );
