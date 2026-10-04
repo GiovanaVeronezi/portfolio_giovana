@@ -14,8 +14,8 @@ function Header() {
 
         <div className="links">
           <a href="mailto:gimveronezi@gmail.com">E-mail</a>
-          <a href="https://www.linkedin.com/">LinkedIn</a>
-          <a href="https://github.com/">Github</a>
+          <a href="https://www.linkedin.com/in/giovana-moraes-veronezi-b89326162  ">LinkedIn</a>
+          <a href="https://github.com/GiovanaVeronezi">Github</a>
         </div>
       </div>
 
