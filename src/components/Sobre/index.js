@@ -5,7 +5,7 @@ function Sobre() {
     <section>
       <h2 className="h2-sobre">Sobre mim</h2>
       <p className="p-sobre">
-        Sou estudante de Análise e Desenvolvimento de Sistemas pela UNIFRAN no modelo EAD. Atualmente estou estudando aplicações utilizando Javascript com React, mas com foco em me tornar uma desenvolvedora fullstack. 
+        Sou a Giovana, estudante de analíse e desenvolvimento de sistemas. Tenho interesse em desenvolvimento FullStack, possuo conhecimento em front-end, venho aprimorando meus conhecimentos em JavaScript e React, além de possuir experiência com Node.js, Express e MongoDB em projetos fullStack. 
       </p>
     </section>
   );
